@@ -63,7 +63,7 @@
 
 ### Azure Pipelines
 <div style="display: flex; justify-content: space-between; padding-top: 5px;">
-  <img src="./content/ado-pipelines2.png" style="width: 28%;">
+  <img src="./content/ado-pipelines2.png" style="width: 28%;>
   <img src="./content/ado-build.png" style="width: 68%;">
 </div>
 <div style="display: flex; justify-content: space-around; padding-top: 5px">
