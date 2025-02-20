@@ -35,11 +35,11 @@
 <div style="display: flex; justify-content: space-around;">
   <img src="./content/agile1.png" style="width: 50%;">
 </div>
-<div style="display: flex; justify-content: space-between; padding-top: 10px;">
+<div style="display: flex; justify-content: space-between; padding-top: 5px;">
   <img src="./content/agile2.png" style="width: 58%;">
   <img src="./content/agile3.png" style="width: 38%;">
 </div>
-<div style="display: flex; justify-content: space-around; padding-top:10px;">
+<div style="display: flex; justify-content: space-around; padding-top:5px;">
   <img src="./content/agile-retro.png" style="width: 60%;">
 </div>
 
